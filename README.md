@@ -36,7 +36,7 @@ Every solved problem is *committed here*.
 
 <!-- AUTO-TOPICS:START -->
 - [x] Array
-- [ ] String
+- [x] String
 - [ ] Linked List
 - [x] Matrix
 - [ ] Trees
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 6
+**Total Solved:** 7
 
 | Topic | Solved |
 |-------|--------|
-| Array | 6 |
+| Array | 7 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
