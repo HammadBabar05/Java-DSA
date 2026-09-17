@@ -45,7 +45,7 @@ Every solved problem is *committed here*.
 - [ ] Heap
 - [ ] Trie
 - [ ] Hashing
-- [ ] Dynamic Programming
+- [x] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
 - [ ] Binary Search
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 9
+**Total Solved:** 10
 
 | Topic | Solved |
 |-------|--------|
-| Array | 9 |
+| Array | 10 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
