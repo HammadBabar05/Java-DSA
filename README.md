@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 7
+**Total Solved:** 8
 
 | Topic | Solved |
 |-------|--------|
-| Array | 7 |
+| Array | 8 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
