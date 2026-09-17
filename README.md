@@ -8,7 +8,7 @@
 [![GitHub Streak](https://img.shields.io/badge/GitHub-Daily%20Commits-black?style=for-the-badge&logo=github)](https://github.com/HammadBabar05/Java-DSA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-babar-203066351/)
 [![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/)
-[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Progress%20Tracker-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1vSSf8noI81lZQBfSeZ08hdvwiVMWNoNh83cKT2b4PGo/edit?gid=2100894998#gid=2100894998)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Progress%20Tracker-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1wgE8cwkfipVQvulJpjIId2m4erHc4THYaX8TT42as78/edit?gid=393611220#gid=393611220)
 
 </div>
 
