@@ -35,7 +35,7 @@ Every solved problem is *committed here*.
 <summary><b>Click to expand topic checklist</b></summary>
 
 <!-- AUTO-TOPICS:START -->
-- [ ] Array
+- [x] Array
 - [ ] String
 - [ ] Linked List
 - [ ] Matrix
@@ -49,7 +49,7 @@ Every solved problem is *committed here*.
 - [ ] Backtracking
 - [ ] Greedy
 - [ ] Binary Search
-- [ ] Math
+- [x] Math
 - [ ] Bit Manipulation
 - [ ] Sliding Window
 - [ ] Two Pointers
@@ -61,10 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 0
+**Total Solved:** 1
 
 | Topic | Solved |
 |-------|--------|
+| Array | 1 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
