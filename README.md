@@ -44,7 +44,7 @@ Every solved problem is *committed here*.
 - [ ] Stack / Queue
 - [ ] Heap
 - [ ] Trie
-- [ ] Hashing
+- [x] Hashing
 - [x] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 12
+**Total Solved:** 13
 
 | Topic | Solved |
 |-------|--------|
-| Array | 12 |
+| Array | 13 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
