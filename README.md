@@ -47,7 +47,7 @@ Every solved problem is *committed here*.
 - [x] Hashing
 - [x] Dynamic Programming
 - [ ] Backtracking
-- [ ] Greedy
+- [x] Greedy
 - [x] Binary Search
 - [x] Math
 - [ ] Bit Manipulation
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 16
+**Total Solved:** 17
 
 | Topic | Solved |
 |-------|--------|
-| Array | 16 |
+| Array | 17 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
