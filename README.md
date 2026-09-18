@@ -53,7 +53,7 @@ Every solved problem is *committed here*.
 - [ ] Bit Manipulation
 - [ ] Sliding Window
 - [x] Two Pointers
-- [ ] Sorting
+- [x] Sorting
 <!-- AUTO-TOPICS:END -->
 </details>
 
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 11
+**Total Solved:** 12
 
 | Topic | Solved |
 |-------|--------|
-| Array | 11 |
+| Array | 12 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
