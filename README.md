@@ -48,7 +48,7 @@ Every solved problem is *committed here*.
 - [x] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
-- [ ] Binary Search
+- [x] Binary Search
 - [x] Math
 - [ ] Bit Manipulation
 - [ ] Sliding Window
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 15
+**Total Solved:** 16
 
 | Topic | Solved |
 |-------|--------|
-| Array | 15 |
+| Array | 16 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
