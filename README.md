@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 39
+**Total Solved:** 40
 
 | Topic | Solved |
 |-------|--------|
-| Array | 37 |
+| Array | 38 |
 | String | 2 |
 <!-- AUTO-STATS:END -->
 
