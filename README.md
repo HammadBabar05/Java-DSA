@@ -61,13 +61,13 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 50
+**Total Solved:** 51
 
 | Topic | Solved |
 |-------|--------|
 | Array | 47 |
+| BinarySearch | 2 |
 | String | 2 |
-| BinarySearch | 1 |
 <!-- AUTO-STATS:END -->
 
 Each folder contains:
