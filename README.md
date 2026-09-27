@@ -50,7 +50,7 @@ Every solved problem is *committed here*.
 - [x] Greedy
 - [x] Binary Search
 - [x] Math
-- [ ] Bit Manipulation
+- [x] Bit Manipulation
 - [x] Sliding Window
 - [x] Two Pointers
 - [x] Sorting
@@ -61,11 +61,11 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 59
+**Total Solved:** 60
 
 | Topic | Solved |
 |-------|--------|
-| Array | 55 |
+| Array | 56 |
 | BinarySearch | 2 |
 | String | 2 |
 <!-- AUTO-STATS:END -->
