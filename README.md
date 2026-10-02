@@ -61,13 +61,13 @@ Every solved problem is *committed here*.
 
 ## 📈 Auto-Generated Progress
 <!-- AUTO-STATS:START -->
-**Total Solved:** 74
+**Total Solved:** 75
 
 | Topic | Solved |
 |-------|--------|
 | Array | 68 |
+| Math | 3 |
 | BinarySearch | 2 |
-| Math | 2 |
 | String | 2 |
 <!-- AUTO-STATS:END -->
 
